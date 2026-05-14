@@ -1,0 +1,17 @@
+# Sensitive credentials generated on the server
+mtproto-credentials.txt
+/root/mtproto-credentials.txt
+
+# Optional local copies
+*.secret
+*.secrets
+*.credentials
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
